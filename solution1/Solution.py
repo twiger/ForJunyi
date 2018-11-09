@@ -18,10 +18,7 @@ class Solution(object):
 
 
     def reverseWordInSentence(self, sentence):
-        """
-        :type root: TreeNode
-        :rtype: int
-        """
+        
         revList = []
         senList = sentence.split()
         
